@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Urang Awak",
+    "address": "Jl abc no 75",
+    "phone_number": 6285290123750,
+    "email": "urangawak@mail.com"
+  },
+  {
+    "name": "Sushi Tea",
+    "address": "Jl Tan Malaka no 75",
+    "phone_number": 6285270133782,
+    "email": "urangawak@mail.com"
+  },
+  {
+    "name": "Oppaseyo",
+    "address": "Jl Korea Utara no 35",
+    "phone_number": 6285250133681,
+    "email":"oppa_seyo@mail.com"
+  }
+]
